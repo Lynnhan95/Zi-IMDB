@@ -1,0 +1,12 @@
+.stateIcon{
+    display:inline-block;
+    width:36px !important;
+    height:36px !important;
+    background:center/100% url(../img/unitedState.png);
+}
+.hiddenRow{
+   padding:0px !important;
+}
+.table{
+    margin-bottom:0px !important;
+}
