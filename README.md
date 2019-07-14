@@ -1,7 +1,4 @@
 # Zi-data
-# Zi-data
-# Zi-IMDB
-# Zi-IMDB
-# Zi-IMDB
-# Zi-IMDB
-# Zi-IMDB
+For project IMDB, the basic HTML structure and CSS styling, as well as tentative data loading functions
+
+
